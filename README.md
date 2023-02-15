@@ -7,12 +7,13 @@ The project aims to collect and analyze immigration-related tweets published in 
 2. The Ukrainian refugee inflow
 
 All steps are documented in the Notebooks:
-* 01_Data-Collection_Syrian.ipynb
-* 01_Data-Collection_Ukrainian.ipynb
-* 02_Pre-processing_merged.ipynb
-* 03_Sentiment-Analysis_merged.ipynb
-* 04_Data-Preparation_merged.ipynb
-* 05_Exploration-and-Visualization.ipynb
+* 01_Data-Collection_limited_Syrian.ipynb
+* 01_Data-Collection_limited_Ukrainian.ipynb
+* 02_Pre-processing_limited_merged.ipynb
+* 03_Sentiment-Analysis_limited_merged.ipynb
+* 04_Data-Preparation_limited_merged.ipynb
+* 05_Exploration-and-Visualization_limited_merged.ipynb
+* 06_Regression_limited_merged.ipynb
 
 ## Installation
 Please refer to requirements.txt
