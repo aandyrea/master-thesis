@@ -29,16 +29,24 @@ All other Notebooks were carried out in:
 
 ## Notebooks
 
-### 01_Data-Collection_Syrian
+### 01_Data-Collection_limited_Syrian
 The collection of tweets during the first time frame--the Syrian refugee inflow--is documented in this notebook. Both English- and German-language tweets are obtained.
 
-### 01_Data-Collection_Ukrainian
+### 01_Data-Collection_limited_Ukrainian
 The collection of tweets during the second time frame--the Ukrainian refugee inflow--is documented in this notebook. Both English- and German-language tweets are obtained.
 
-### 02_Pre-processing_merged
+### 02_Pre-processing_limited_merged
+In this notebook, all collected tweets are pre-processed for sentiment analysis.
 
-### 03_Sentiment-Analysis_merged
+### 03_Sentiment-Analysis_limited_merged
+Sentiment analysis is carried out in this notebook. 
+**NOTE**: This notebook was produced and run in Google Colab. Therefore, it is recommended you run it in Colab rather than Jupyter. 
 
-### 04_Data-Preparation_merged
+### 04_Data-Preparation_limited_merged
+The data is prepared for exploration and eventual regression in this notebook.
 
-### 05_Exploration-and-Visualization
+### 05_Exploration-and-Visualization_limited_merged
+Here, the data is explored and visualized.
+
+### 06_Regression_limited_merged
+The final step of the study is carried out in this notebook. A logistic regression is conducted to predict sentiment based on inflow (Syrian or Ukrainian).
