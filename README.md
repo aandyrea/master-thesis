@@ -1,6 +1,7 @@
 # Master-thesis
 ![GitHub last commit](https://img.shields.io/github/last-commit/aandyrea/master-thesis?color=%23ff69b4)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aandyrea/master-thesis)
 ## Overview
 This file explains the steps to reproduce the research carried out for my Master Thesis, titled "Refugees Welcome? A comparative sentiment analysis of tweets in Germany surrounding inflows of Syrians and Ukrainians". 
 
