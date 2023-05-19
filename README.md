@@ -49,8 +49,11 @@ Sentiment analysis is carried out in this notebook.
 ### 04_Data-Preparation_limited_merged
 The data is prepared for exploration and eventual regression in this notebook.
 
-### 05_Exploration-and-Visualization_limited_merged
+### 05_Exploration-and-Visualization_limited_merged-negative-binary
 Here, the data is explored and visualized.
 
-### 06_Regression_limited_merged
+### 06_Regression_limited_merged-negative-binary
 The final step of the study is carried out in this notebook. A logistic regression is conducted to predict sentiment based on inflow (Syrian or Ukrainian) in addition to two control variables: (1) change in foreign share of the total population and (2) GDP volume growth.
+
+### 07_Revisions
+Several adjustments were made based on the suggestions from my supervisor. 
